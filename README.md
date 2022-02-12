@@ -1,0 +1,6 @@
+- 👋 Olá, eu sou o Rodrigo Kaio!
+- 👀 I’m interested in ...
+- 🌱 Atualmente eu estou estudando .NET e C# tendo como base o livro do Mark J. Price - C# 10 and .NET 6 – Modern Cross-Platform Development
+- 💞️ I’m looking to collaborate on ...
+- 📫 Você pode me encontrar através do Linkedin (https://www.linkedin.com/in/rodrigo-k-405911152/) ou no e-mail dev.rodrigokaio@gmail.com
+
